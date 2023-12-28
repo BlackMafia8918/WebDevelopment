@@ -1,0 +1,32 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Apply styles to header, nav, main, sections, and footer */
+  header {
+    /* Header styles */
+  }
+  
+  nav {
+    /* Navigation styles */
+    img{
+      width: 700px;
+      height: 500px;
+    }
+  }
+  
+  main {
+    /* Main content styles */
+  }
+  
+  section {
+    /* Section styles */
+  }
+  
+  footer {
+    /* Footer styles */
+  }
+  
